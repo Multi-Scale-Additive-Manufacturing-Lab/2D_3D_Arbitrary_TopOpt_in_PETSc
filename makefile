@@ -1,6 +1,4 @@
-#PETSC_DIR=/cvmfs/soft.computecanada.ca/easybuild/software/2017/avx2/MPI/intel2016.4/openmpi2.1/petsc/3.9.0
-#PETSC_DIR=/home/z496zhan/opt/petsc-3.10.2
-PETSC_DIR=/home/z496zhan/opt/petsc-3.10.2_mumps_superlu_dist/
+PETSC_DIR=/home/z496zhan/opt/petsc-3.10.2
 PETSC_ARCH=arch-linux-mpicc-debug
 CFLAGS = -I.
 FFLAGS=
